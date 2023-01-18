@@ -1,2 +1,2 @@
 requests
-fake_useragent
+fake-useragent
